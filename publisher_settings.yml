@@ -1,3 +1,5 @@
 publisher:
   name: Nino Marrazzo - Wellnet
   description: Integrazione e sviluppo di nuove funzionalità
+  tags:
+    - documents
