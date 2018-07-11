@@ -1,0 +1,8 @@
+projects:
+  name: Testing
+  description: Testing delle nuove funzionalità
+  documents:
+    - anagrafe-docs
+    - design-docs
+    - docs-italia-demo
+
